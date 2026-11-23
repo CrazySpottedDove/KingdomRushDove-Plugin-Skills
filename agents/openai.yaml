@@ -1,0 +1,4 @@
+interface:
+  display_name: "KingdomRushDove 插件开发"
+  short_description: "按类型制作 KingdomRushDove Lua 插件"
+  default_prompt: "使用 $kingdomrushdove-plugin 创建或修改一个 KingdomRushDove 插件。"
